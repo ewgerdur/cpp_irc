@@ -1,0 +1,4 @@
+inc/Exception.hpp.orig
+obj
+dep
+libwebcore.a
